@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  attendees: MyString
+  medium: MyString
+  notes: MyString
+  follow_up: MyString
+  date: MyString
+  time: MyString
+
+two:
+  location: MyString
+  attendees: MyString
+  medium: MyString
+  notes: MyString
+  follow_up: MyString
+  date: MyString
+  time: MyString
